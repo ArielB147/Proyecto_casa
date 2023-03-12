@@ -1,0 +1,43 @@
+.blogo{
+    font-family: 'Permanent Marker', cursive;
+}
+h1, h2, h3, h4, h5{
+    font-size: 35pt;
+    font-family: 'Acme', sans-serif;
+}
+
+p{
+    font-size: 15pt;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* Carousel */
+.seccion{
+    margin-top: 50px;
+}
+
+.car_ctrl{
+    background-color: rgba(0, 0, 0, .2);
+    opacity: 0%;
+}
+
+.car_ctrl:hover{
+    opacity: 55%;
+}
+
+.slide{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.homedir div{
+    background-color: lightgray;
+    padding: 10px 0px;
+}
+
+.pie{
+    background-color:#000;
+    padding: 30px 0px;
+    color: lightgray;
+}
